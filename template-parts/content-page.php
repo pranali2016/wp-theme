@@ -28,7 +28,7 @@
 			'separator'   => '<span class="screen-reader-text">, </span>',
 		) );
 		?>
-	</div><!-- .entry-content -->
+	</div><!-- . entry-content -->
 
 	<?php
 		edit_post_link(
@@ -42,4 +42,4 @@
 		);
 	?>
 
-</article><!-- #post-## -->
+</article><!-- post -->
