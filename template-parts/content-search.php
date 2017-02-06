@@ -32,7 +32,7 @@
 					'</span>'
 				);
 			?>
-		</footer><!-- .entry-footer -->
+		</footer>
 
 	<?php else : ?>
 
@@ -49,5 +49,5 @@
 		?>
 
 	<?php endif; ?>
-</article><!-- #post-## -->
+</article>
 
