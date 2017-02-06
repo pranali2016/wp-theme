@@ -318,9 +318,9 @@
 
   // shiv the document
   shivDocument(document);
-
+var module;
   if(typeof module === 'object' && module.exports){
     module.exports = html5;
   }
 
-}(typeof window !== "undefined" ? window : this, document));
+}(typeof window !== 'undefined' ? window : this, document));
